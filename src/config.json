@@ -1,0 +1,6 @@
+{
+  "config": {
+    "API_KEY": "731363bd74370cda13c3bd45545e3158",
+    "BASE_URL": "https://api.themoviedb.org/3/"
+  }
+}
